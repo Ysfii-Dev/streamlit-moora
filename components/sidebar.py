@@ -1,4 +1,4 @@
-def render_sidebar(menu_items: list, logo_path: str = "./assets/logo.png", app_title: str = "SPK MOORA"):
+def render_sidebar(menu_items: list, logo_path: str = "./assets/Logo.png", app_title: str = "SPK MOORA"):
     import streamlit as st
     import time
     from utils.auth import logout_user
