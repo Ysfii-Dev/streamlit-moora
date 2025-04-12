@@ -1,0 +1,11 @@
+Kode,Kriteria,Jenis Atribut,Skala/Satuan,Cara Ukur Praktis
+C1,Produktivitas panen,Benefit (+),Ton/hektar,Data lapangan
+C2,Ketahanan terhadap hama/penyakit,Benefit (+),Skala 1–10,Pengamatan petani
+C3,Waktu panen,Cost (−),Hari,Informasi dari label bibit
+C4,Kebutuhan air,Cost (−),Liter/hektar,Estimasi pengalaman
+C5,Kualitas gabah,Benefit (+),% Gabah berkualitas,Hasil giling
+C6,Adaptasi terhadap musim tanam,Benefit (+),Skala 1–10,Kesesuaian saat musim
+C7,Curah hujan,Benefit (+),mm/bulan,Estimasi dari BMKG lokal
+C8,pH tanah,Benefit (+),Skala 1–14,Kertas lakmus
+C9,Kemudahan perawatan,Benefit (+),Skala 1–10,Wawancara petani
+C10,Ketersediaan bibit di pasaran,Benefit (+),Skala 1–10,Observasi pasar
