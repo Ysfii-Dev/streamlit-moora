@@ -1,0 +1,11 @@
+Kode,Kriteria,Bobot,Alasan Pemberian Bobot
+C1,Produktivitas,0.15,"Produktivitas (hasil panen) adalah tujuan utama, jadi bobot tertinggi"
+C2,Ketahanan hama/penyakit,0.1,"Serangan hama bisa sangat merusak, jadi penting dipertimbangkan"
+C3,Waktu panen,0.1,Petani cenderung memilih bibit dengan masa panen cepat
+C4,Kebutuhan air,0.1,"Di musim kemarau, bibit hemat air lebih disukai"
+C5,Kualitas gabah,0.1,Kualitas gabah memengaruhi harga jual di pasaran
+C6,Adaptasi musim tanam,0.1,Bibit yang fleksibel bisa ditanam sepanjang musim
+C7,Curah hujan,0.1,Kesesuaian dengan curah hujan penting untuk pertumbuhan
+C8,pH tanah,0.05,"Meski penting, tapi biasanya bisa diatasi lewat pemupukan"
+C9,Kemudahan perawatan,0.1,Bibit yang tidak ribet dipelihara sangat membantu petani
+C10,Ketersediaan bibit,0.1,Bibit harus mudah didapat di pasaran agar bisa dibeli kapan saja
