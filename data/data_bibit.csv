@@ -1,0 +1,11 @@
+Kode,Nama Bibit,C1 - Produktivitas panen,C2 - Ketahanan hama/penyakit,C3 - Waktu panen,C4 - Kebutuhan air,C5 - Kualitas gabah,C6 - Adaptasi musim tanam,C7 - Curah hujan,C8 - pH tanah,C9 - Kemudahan perawatan,C10 - Ketersediaan di pasaran
+A1,Sidenok (Rambutan),9.1,8,86,5200,85.0,9,220.0,6.5,9,7
+A2,Mekongga,6.2,7,110,4800,80.0,9,200.0,6.3,8,8
+A3,Ciherang,6.5,6,105,5500,87.0,8,210.0,6.5,8,10
+A4,Inpari 30,7.5,8,100,5300,86.0,9,215.0,6.4,8,7
+A5,Inpari 42 Agritan GSR,7.8,9,105,5000,88.0,9,210.0,6.7,9,6
+A6,Inpari 19,6.8,8,115,5200,85.0,8,200.0,6.5,7,7
+A7,Sigambiri Merah,4.8,7,110,4000,75.0,8,180.0,6.5,7,5
+A8,Sigambiri Putih,5.1,8,112,4200,78.0,9,190.0,6.8,7,5
+A9,Inpari 32,8.2,8,110,5100,85.0,9,200.0,6.8,8,8
+A10,Situ Bagendit,7.1,7,115,5300,88.0,8,210.0,6.7,7,6
