@@ -64,7 +64,7 @@ def show():
             bibit_row["C2 - Ketahanan hama/penyakit"]) if bibit_row["C2 - Ketahanan hama/penyakit"] else 5)
         c3 = st.number_input("C3 - Waktu panen",
                              value=bibit_row["C3 - Waktu panen"] or 0)
-        c4 = st.number_input("C4 - Kebutuhan air",
+        c4 = st.number_input("C4 - Kebutuhan air fase pembibitan",
                              value=bibit_row["C4 - Kebutuhan air"] or 0)
         c5 = st.number_input("C5 - Kualitas gabah",
                              value=bibit_row["C5 - Kualitas gabah"] or 0.0)
