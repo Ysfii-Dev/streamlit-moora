@@ -1,0 +1,8 @@
+Kode,Kriteria,Satuan/Skala Asli,Alasan Konversi,Aturan Konversi ke Skala MOORA (1–10)
+C7,Curah hujan,mm/bulan,Nilainya tidak linier – terlalu rendah/tinggi bisa buruk,"- 10 jika 150–200 mm (ideal)
+- 8 jika 100–149 mm atau 201–250 mm
+- 6 jika <100 mm atau >250 mm"
+C8,pH tanah,Skala 1–14,Ideal di kisaran 5.5–7.0 – makin jauh makin buruk,"- 10 jika 5.5–7.0 (ideal)
+- 8 jika 5.0–5.4 atau 7.1–7.5
+- 6 jika 4.5–4.9 atau 7.6–8.0
+- 4 jika <4.5 atau >8.0"
